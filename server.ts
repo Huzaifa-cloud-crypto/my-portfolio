@@ -36,7 +36,7 @@ Target Roles:
 - AI/ML Intern
 
 GitHub: HUZAIFA-CLOUD-CRYPTO (https://github.com/HUZAIFA-CLOUD-CRYPTO)
-LinkedIn: [ADD YOUR LINKEDIN URL]
+LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-20b91a361
 Email: huzaifaa.ayyazz@gmail.com
 
 PROJECTS:

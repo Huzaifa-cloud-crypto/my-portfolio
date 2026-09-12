@@ -22,7 +22,7 @@ export const PROFILE = {
   links: {
     githubUsername: 'HUZAIFA-CLOUD-CRYPTO',
     github: 'https://github.com/HUZAIFA-CLOUD-CRYPTO',
-    linkedin: '[ADD YOUR LINKEDIN URL]',
+    linkedin: 'https://www.linkedin.com/in/muhammad-huzaifa-20b91a361',
     email: 'huzaifaa.ayyazz@gmail.com',
     portfolioUrl: 'https://github.com/HUZAIFA-CLOUD-CRYPTO',
   },

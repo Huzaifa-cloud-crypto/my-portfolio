@@ -103,6 +103,17 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenStreamlitModal, activeSect
             </a>
 
             <a
+              href={PROFILE.links.linkedin}
+              target="_blank"
+              rel="noreferrer"
+              id="nav-linkedin-link"
+              className="p-2 text-slate-400 hover:text-sky-400 hover:bg-slate-800/60 rounded-md transition-colors"
+              aria-label="LinkedIn Profile"
+            >
+              <Linkedin className="w-4 h-4" />
+            </a>
+
+            <a
               href="#contact"
               id="nav-contact-cta"
               className="inline-flex items-center px-3.5 py-1.5 rounded-md text-xs font-medium bg-sky-600 hover:bg-sky-500 text-white shadow-sm transition-all"

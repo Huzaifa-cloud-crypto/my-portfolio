@@ -23,7 +23,7 @@ PROFILE = {
     ],
     "github_username": "HUZAIFA-CLOUD-CRYPTO",
     "github_url": "https://github.com/HUZAIFA-CLOUD-CRYPTO",
-    "linkedin_url": "[ADD YOUR LINKEDIN URL]",
+    "linkedin_url": "https://www.linkedin.com/in/muhammad-huzaifa-20b91a361",
     "email": "huzaifaa.ayyazz@gmail.com",
     "portfolio_url": "https://github.com/HUZAIFA-CLOUD-CRYPTO",
     "bio": (

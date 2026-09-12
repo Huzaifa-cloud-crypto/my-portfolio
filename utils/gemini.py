@@ -35,7 +35,7 @@ Primary AI Interest: Generative AI
 Location: Pakistan
 Target Roles: AI Engineer, Software Engineer, Generative AI Engineer, Cloud/AI Engineer, Software Trainee Engineer, AI/ML Intern
 GitHub: HUZAIFA-CLOUD-CRYPTO (https://github.com/HUZAIFA-CLOUD-CRYPTO)
-LinkedIn: [ADD YOUR LINKEDIN URL]
+LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-20b91a361
 Email: huzaifaa.ayyazz@gmail.com
 
 Projects:
