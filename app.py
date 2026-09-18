@@ -16,9 +16,18 @@ from components.timeline import render_education_timeline
 from components.footer import render_footer
 from utils.helpers import load_css, fetch_github_repos
 from utils.gemini import query_gemini_assistant
+import streamlit as st
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7638472632035578"
+# ---- FIX FOR LINE 20: WRAP THE ADSENSE CODE IN STREAMLIT MARKDOWN ----
+st.markdown(
+    """
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7638472632035578"
      crossorigin="anonymous"></script>
+    """,
+    unsafe_allow_html=True
+)
+# ----------------------------------------------------------------------
+
 # Page Configuration
 st.set_page_config(
     page_title="Muhammad Huzaifa | AI & Software Engineering Portfolio",
